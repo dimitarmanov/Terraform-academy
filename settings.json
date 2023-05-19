@@ -1,0 +1,18 @@
+{
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.fontSize": 20,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
+    "[python]": {
+      "editor.formatOnType": true
+    },
+    "redhat.telemetry.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "hashicorp.terraform",
+    "terminal.integrated.fontSize": 14,
+    "terraform.codelens.referenceCount": true,
+    "files.autoSave": "afterDelay"
+  }
+  
