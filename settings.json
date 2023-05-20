@@ -1,6 +1,6 @@
 {
     "terminal.integrated.fontFamily": "MesloLGS NF",
-    "editor.fontSize": 20,
+    "editor.fontSize": 18,
     "security.workspace.trust.untrustedFiles": "open",
     "git.autofetch": true,
     "[python]": {
